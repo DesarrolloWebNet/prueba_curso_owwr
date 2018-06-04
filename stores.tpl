@@ -25,10 +25,6 @@
 
 {capture name=path}{l s='Our stores'}{/capture}
 
-<h1 class="page-heading">
-	{l s='Our stores'}
-</h1>
-
 <h2><a href="{$link->getPageLink('contact-form.php')}" title="{l s='Si eres profesional contacta con nosotros para formar parte de nuestra red de talleres'}">{l s='Si eres profesional contacta con nosotros para formar parte de nuestra red de talleres'}</a></h2>
 
 {if $simplifiedStoresDiplay}
